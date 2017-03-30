@@ -51,7 +51,7 @@ The `fh-js-sdk` and other development dependencies are defined in [package.json]
 To update the JS SDK:
 - change the version in [package.json](package.json)
 - run `npm install` a grunt task is automatically ran to regenerate main.js
-- check-in git repo the npackage.json + main.js
+- check-in git repo the package.json + main.js
 
 ### Grunt
 
